@@ -6,5 +6,5 @@
 ## Labeled Data Augmentation
 
   1. Augmentation using thearusus substitution.
-  2. Augmentation using round-translation.
-  [notebook link]
+  2. Augmentation using round-translation.  
+  [notebook link](https://github.com/MarvinLSJ/meituan/blob/master/aug_dialog.ipynb)
